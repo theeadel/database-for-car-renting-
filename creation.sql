@@ -1,5 +1,5 @@
-create database ajjeraa; 
-use ajjeraa; 
+create database ajjera; 
+use ajjera; 
 CREATE TABLE [user] ( 
     id INT NOT NULL, 
     password VARCHAR(255) NOT NULL, 
